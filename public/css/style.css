@@ -147,11 +147,16 @@ background: #eeeeee;
 }
 
 a {
-  color: #92BCF2;
+  color: #fff;
   font-weight: 700;
 }
 
 a:visited,
 a:hover {
-  color: #7EB6FF;
+  color: #000;
+}
+.coc {
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
 }
